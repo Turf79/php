@@ -4,5 +4,7 @@
 
     echo "olá Safadão!";
 
+    echo "ola wesley";
+
 
 ?>
